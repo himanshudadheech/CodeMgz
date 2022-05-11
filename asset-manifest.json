@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/CodeMgz/static/css/main.404eb751.css",
+    "main.js": "/CodeMgz/static/js/main.db056916.js",
+    "static/js/787.8e494e02.chunk.js": "/CodeMgz/static/js/787.8e494e02.chunk.js",
+    "static/media/bj.jpg": "/CodeMgz/static/media/bj.b5f942e922fd3c60d253.jpg",
+    "static/media/suraj.jpg": "/CodeMgz/static/media/suraj.2a0284116f4012387b65.jpg",
+    "static/media/home_pic_one.png": "/CodeMgz/static/media/home_pic_one.2ce3f27d86f0cc06ae6e.png",
+    "static/media/logsig.png": "/CodeMgz/static/media/logsig.167b81aa7bf277615943.png",
+    "static/media/kailash.jpeg": "/CodeMgz/static/media/kailash.5db839a75f3887f593cb.jpeg",
+    "static/media/team2.png": "/CodeMgz/static/media/team2.c8ffda4ec600b7040041.png",
+    "static/media/h1.jpg": "/CodeMgz/static/media/h1.bece36f8f8d08f30419f.jpg",
+    "static/media/team1.png": "/CodeMgz/static/media/team1.863d22285390b95a537d.png",
+    "static/media/manojr.jpg": "/CodeMgz/static/media/manojr.f7cbef7d6e4fe2f361da.jpg",
+    "static/media/logo.png": "/CodeMgz/static/media/logo.87843f0ce1ad0ddcc3eb.png",
+    "static/media/kritik.jpeg": "/CodeMgz/static/media/kritik.c3e96d2635e984464d4e.jpeg",
+    "static/media/hd.jpg": "/CodeMgz/static/media/hd.981314626b1c49a2b61e.jpg",
+    "static/media/c1.jpg": "/CodeMgz/static/media/c1.c1c6fc205b07b155f54f.jpg",
+    "static/media/parent.png": "/CodeMgz/static/media/parent.9f7f5f81ac6b684b870f.png",
+    "static/media/Teacher.png": "/CodeMgz/static/media/Teacher.b2c8329cdc456037d876.png",
+    "static/media/Abhishek Rana.jpg": "/CodeMgz/static/media/Abhishek Rana.685408f203522f0cd496.jpg",
+    "static/media/pt.jpg": "/CodeMgz/static/media/pt.211ba827e2d4ca48c6db.jpg",
+    "static/media/Student.png": "/CodeMgz/static/media/Student.059279378af3d809218e.png",
+    "static/media/Ayush Dubey.jpg": "/CodeMgz/static/media/Ayush Dubey.99c789995290420373cc.jpg",
+    "static/media/bhupesh.JPG": "/CodeMgz/static/media/bhupesh.a60c32264ad9e8678b91.JPG",
+    "static/media/bharat.JPG": "/CodeMgz/static/media/bharat.4b451ae7d46a569180c8.JPG",
+    "static/media/Manojl.JPG": "/CodeMgz/static/media/Manojl.6f9c96893a8d4f48cd2c.JPG",
+    "static/media/jk.jpg": "/CodeMgz/static/media/jk.67d98f855cb077690292.jpg",
+    "static/media/viralgandhi.jpg": "/CodeMgz/static/media/viralgandhi.e0bf9a35a5dc3a82cd8f.jpg",
+    "static/media/user.png": "/CodeMgz/static/media/user.ad8a2890de85641bf26d.png",
+    "index.html": "/CodeMgz/index.html",
+    "main.404eb751.css.map": "/CodeMgz/static/css/main.404eb751.css.map",
+    "main.db056916.js.map": "/CodeMgz/static/js/main.db056916.js.map",
+    "787.8e494e02.chunk.js.map": "/CodeMgz/static/js/787.8e494e02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.404eb751.css",
+    "static/js/main.db056916.js"
+  ]
+}
